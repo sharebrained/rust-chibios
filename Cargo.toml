@@ -1,10 +1,11 @@
 [package]
+name = "chibios"
+version = "0.1.0"
+license = "MIT/Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/sharebrained/rust-chibios"
+description = "FFI wrapper for ChibiOS 2.6"
+keywords = ["chibios"]
 authors = [
 	"Jared Boone <jared@sharebrained.com>",
 ]
-description = "FFI wrapper for ChibiOS 2.6"
-keywords = ["chibios"]
-license = "MIT or Apache-2.0"
-name = "chibios"
-repository = "https://github.com/sharebrained/rust-chibios"
-version = "0.1.0"
