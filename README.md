@@ -14,7 +14,7 @@ us on [freenode] at [#portapack].
 
 [IRC]: https://en.wikipedia.org/wiki/Internet_Relay_Chat
 [freenode]: https://freenode.net/
-[#portapack]: https://webchat.freenode.net/?channels=%23hackrf&uio=d4
+[#portapack]: https://webchat.freenode.net/?channels=%23portapack&uio=d4
 
 ## License
 
