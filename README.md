@@ -1,4 +1,4 @@
-# hackrf-hal
+# chibios
 
 [Rust] FFI wrapper around [ChibiOS] 2.6. This wrapper was created for the [PortaPack]
 project.
